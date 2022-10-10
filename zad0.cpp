@@ -18,4 +18,6 @@ int main()
     }
 
     std::cout << max - 1 << std::endl;
+
+    return 0;
 }

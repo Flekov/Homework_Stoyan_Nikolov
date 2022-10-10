@@ -12,4 +12,6 @@ int main()
         x = pow(k, i);
     }
     std::cout << i - 1 << std::endl;
+
+    return 0;
 }
